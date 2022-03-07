@@ -120,6 +120,7 @@ Finalmente se pueden observar los resultados en GTKWave donde las variables nos 
 
 
 ### CONCLUSIONES :heavy_check_mark:
+
 * 
 * 
 * 
