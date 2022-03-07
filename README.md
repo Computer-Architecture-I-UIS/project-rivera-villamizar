@@ -121,9 +121,10 @@ Finalmente se pueden observar los resultados en GTKWave donde las variables nos 
 
 ### CONCLUSIONES :heavy_check_mark:
 
-* 
-* 
-* 
+* Se pudo ejecutar el programa de prueba AL_Operations en el procesador y observar su comportamiento mediante GtkWave.
+* Mediante el uso de vivado se pudo sintetizar el diseño para generar el archivo verilog del procesador para realizar la simulación.
+* Se debió abrir el Visual Code como super usario para poder realizar la traza.
+* El archivo trace.vcd debió moverse a una ubicación sin restricciones para poder ser corrido en Gtkwave.
 
 ### REFERENCIAS :paperclip:
 * The imagination university program (2021), RVfpga-SoC INSTALLATION GUIDE
