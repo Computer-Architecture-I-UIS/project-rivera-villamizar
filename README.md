@@ -24,8 +24,9 @@ Primero se iniciara con el desarrollo de la guia por lo tanto se creara un proye
  <img src="https://github.com/Vlasevi/riscvlabs/blob/073427536581c14a7dcc519191a407ddf5a3ae89/Im%C3%A1genes/Screenshot%20from%202022-03-06%2015-27-54.png" alt="modulo" width="500"/>
 </p>
 
-Luego se definen diferentes caracteristicas en el proyecto creado como las que se pueden observar a continuación:
+En este paso se deben incluir los directorios y los archivos y así dejar creado el proyecto.
 
+Luego se definen algunos archivos de manera global, como se puede observar en la figura.
 <p align="center"> 
  <img src="https://github.com/Vlasevi/riscvlabs/blob/10ceab68894be5e6ab13573844f50aaf18fbfe8e/Im%C3%A1genes/Screenshot%20from%202022-03-06%2018-22-41.png" alt="modulo" width="400"/>
 </p>
@@ -33,11 +34,18 @@ Luego se definen diferentes caracteristicas en el proyecto creado como las que s
  <img src="https://github.com/Vlasevi/riscvlabs/blob/10ceab68894be5e6ab13573844f50aaf18fbfe8e/Im%C3%A1genes/Screenshot%20from%202022-03-06%2018-32-28.png" alt="modulo" width="400"/>
 </p>
  
-Iniciamos añadiendo algunos bloques en el espacio de diseño, uno de ellos es el swerv_wrapper_verilog0:
-
+Se incluyen los bloques necesarios en el espacio de diseño, como se muestra en la figura.
 <p align="center"> 
  <img src="https://github.com/Vlasevi/riscvlabs/blob/18b41a04b81fd2621903e8d3899d51664c39f2ea/Im%C3%A1genes/Screenshot%20from%202022-03-06%2018-36-53.png"/>
 </p>
+Esto se debe realizar para los siguientes bloques:
+ * :black_nib: Vivado 
+ * :black_nib: Cable Drivers
+ * :black_nib: Digilent Board Files
+ * :black_nib: VS code
+ * :black_nib: PlatformIO on top of VSCode
+ * :black_nib: GTKVWave
+ * :black_nib: Verilator
 
 Luego de realizar cada una de las conexiones requeridas obtenemos un diseño como el que se puede observar en la siguiente imagen: 
 
