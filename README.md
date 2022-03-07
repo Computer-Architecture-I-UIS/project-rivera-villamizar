@@ -72,8 +72,8 @@ Finalmente, después de haber realizado el bitstream, se puede observar que este
  <img src="https://github.com/Vlasevi/riscvlabs/blob/c7ee3ebc16cc1986ad42da0d897b7c13d6281938/Im%C3%A1genes/Screenshot%20from%202022-03-06%2022-44-06.png"/>
 </p>
 
-### :large_orange_diamond: LABORATORIO 2 - CORRIENDO EL SOFTWARE EN RVfpga-Soc
-Para inciar el desarrollo del segundo laboratorio se realizo la respectiva lectura de la guia de manera que se conocieran y entendieran los requerimientos necesarios para la implementación.
+### :large_orange_diamond: LABORATORIO 2 - CORRIENDO UN PROGRAMA DE PRUEBA EN RVfpga-Soc
+Para inciar el desarrollo del segundo laboratorio se realizo la respectiva lectura de la guia correspondiente al laboratorio 2 de manera que se conocieran y entendieran los requerimientos necesarios para la implementación.
 
 Primero 
 
