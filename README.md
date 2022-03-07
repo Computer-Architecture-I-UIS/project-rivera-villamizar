@@ -26,26 +26,31 @@ El software necesario para el desarrollo de los laboratorios es el siguiente:
 
 En este paso se deben incluir los directorios y los archivos y así dejar creado el proyecto.
 
-Luego se definen algunos archivos de manera global, como se puede observar en la figura.
+* Luego se definen algunos archivos de manera global, como se puede observar en la figura. También se debe asignar el archivo rvfpga.sv como "top".
 <p align="center"> 
  <img src="https://github.com/Vlasevi/riscvlabs/blob/10ceab68894be5e6ab13573844f50aaf18fbfe8e/Im%C3%A1genes/Screenshot%20from%202022-03-06%2018-22-41.png" alt="modulo" width="400"/>
 </p>
 <p align="center"> 
  <img src="https://github.com/Vlasevi/riscvlabs/blob/10ceab68894be5e6ab13573844f50aaf18fbfe8e/Im%C3%A1genes/Screenshot%20from%202022-03-06%2018-32-28.png" alt="modulo" width="400"/>
 </p>
+
+Se deben definir de esta manera como globales los siguientes archivos:
+
+ * common_defines.vh
+ * assign.svh
+ * registers.svh
+ * typedef.svh
  
-Se incluyen los bloques necesarios en el espacio de diseño, como se muestra en la figura.
+Mediante la herramiento de Diseño de Bloques llamado BD, se crea un espacio de trabajo en blanco de diseño de bloques donde se añadiran b
 <p align="center"> 
  <img src="https://github.com/Vlasevi/riscvlabs/blob/18b41a04b81fd2621903e8d3899d51664c39f2ea/Im%C3%A1genes/Screenshot%20from%202022-03-06%2018-36-53.png"/>
 </p>
 Esto se debe realizar para los siguientes bloques:
- * :black_nib: Vivado 
- * :black_nib: Cable Drivers
- * :black_nib: Digilent Board Files
- * :black_nib: VS code
- * :black_nib: PlatformIO on top of VSCode
- * :black_nib: GTKVWave
- * :black_nib: Verilator
+ * swerv_wrapper_verilog
+ * intcon_wrapper_bd
+ * bootrom_wrapper
+ * syscon_wrapper
+ * bidirec (En 32 ocaciones) 
 
 Luego de realizar cada una de las conexiones requeridas obtenemos un diseño como el que se puede observar en la siguiente imagen: 
 
