@@ -34,7 +34,7 @@ En este paso se deben incluir los directorios y los archivos y así dejar creado
  <img src="https://github.com/Vlasevi/riscvlabs/blob/10ceab68894be5e6ab13573844f50aaf18fbfe8e/Im%C3%A1genes/Screenshot%20from%202022-03-06%2018-32-28.png" alt="modulo" width="400"/>
 </p>
 
-Se deben definir de esta manera como globales los siguientes archivos:
+Se deben definir de esta manera, es decir, globales los siguientes archivos:
 
  * common_defines.vh
  * assign.svh
