@@ -75,7 +75,8 @@ Ya con los resultados anteriores, se va a generar el bitstream, para ellos incia
 ### :large_orange_diamond: LABORATORIO 2 - CORRIENDO UN PROGRAMA DE PRUEBA EN RVfpga-Soc
 Para inciar el desarrollo del segundo laboratorio se realizo la respectiva lectura de la guia correspondiente al laboratorio 2 de manera de entender los coceptos y el paso a paso para realizar este laboratorio.
 
-* Se debe obtener el archivo verilog BD.v del laboratorio anterior y llevarlo a la ubicación  # [RVfpgaSoCPath]/RVfpgaSoC/Labs/LabResources/Lab2/src/SweRVolfSoC/.
+* Se debe obtener el archivo verilog BD.v del laboratorio anterior y llevarlo a la ubicación siguiente:
+##### [RVfpgaSoCPath]/RVfpgaSoC/Labs/LabResources/Lab2/src/SweRVolfSoC/.
 
 Ya en esta ubicación se debe corroborrar que los modulos dentro del archivo verilog, terminen en 0_0, como se observa en las siguientes figuras:
 
@@ -111,7 +112,10 @@ Posteriormente se abre el visual basic code en la carpeta que cuenta con la sigu
 ##### [RVfpgaSoCPath]/RVfpgaSoC/Labs/LabResources/Lab2/examples/ 
 Luego se abre el archico PlatformIO.ini y se modifica la linea 21 colocando la siguiente redireccion:
 ##### home/user/RVfpgaSoC/Labs/LabResources/Lab2/verilatorSIM/Vrvfpgasim
-
+<p align="center"> 
+ <img src="https://github.com/Computer-Architecture-I-UIS/project-rivera-villamizar/blob/33cf76c7bf143a5d02991884acae2fee7b115d26/Im%C3%A1genes/Screenshot%20from%202022-03-07%2015-46-54.png"/>
+</p>
+Ahora se procede a generar la 
 
 ### CONCLUSIONES :heavy_check_mark:
 * 
