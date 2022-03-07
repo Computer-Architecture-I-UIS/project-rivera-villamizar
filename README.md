@@ -112,6 +112,12 @@ Posteriormente se abre el visual basic code en la carpeta que cuenta con la sigu
 Luego se abre el archico PlatformIO.ini y se modifica la linea 21 colocando la siguiente redireccion:
 ##### home/user/RVfpgaSoC/Labs/LabResources/Lab2/verilatorSIM/Vrvfpgasim
 
+Finalmente se pueden observar los resultados en GTKWave donde las variables nos muestran los resultados esperados:
+
+<p align="center"> 
+ <img src="https://github.com/Computer-Architecture-I-UIS/project-rivera-villamizar/blob/b3c38212b6a7bdbb30042a85f54c13a50afde4cc/Im%C3%A1genes/12.png"/>
+</p>
+
 
 ### CONCLUSIONES :heavy_check_mark:
 * 
