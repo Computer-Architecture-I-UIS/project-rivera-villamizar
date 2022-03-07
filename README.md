@@ -135,6 +135,25 @@ En la ubicación siguiente:
  
  ##### <p align= "center"> gtkwave [RVfpgaSoCPath]/RVfpgaSoC/Labs/LabResources/Lab2/examples/AL_Operations/.pio/build/swervolf_nexys/trace.vcd.</p>
  
+ Con el GTKWave abierto se deben buscar las siguientes rutas: 
+ 
+ * TOP rvfpgasim swervolf swerv_wrapper_verilog_0 swerv_eh1_2 swerv ifu(clk,ifu_i0_instr[31:0],ifu_i1_instr[31:0])
+ * TOP rvfpgasim swervolf swerv_wrapper_verilog_0 swerv_eh1_2 swerv dec arf gpr_banks(0) gpr(28) gprff (dout[31:0])
+ 
+ en las rutas anteriores lo que se encuentra en parentesis son las variables a mostar.
+ 
+ Finalmente en la imagen se pueden observar los resultados en GTKWave dados por las instrucciones:
+ <p align="center"> 
+ <img src="https://github.com/Computer-Architecture-I-UIS/project-rivera-villamizar/blob/ae6527cdcd20c718a311eb6335800785c5f10202/Im%C3%A1genes/12.png"/>
+</p>
+ 
+ 
+ 
+ 
+
+
+
+ 
 
 
 ### CONCLUSIONES :heavy_check_mark:
