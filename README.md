@@ -107,6 +107,8 @@ Con esto se obtiene el resultado en la terminal que se observa en la figura y ya
  <img src="https://github.com/Computer-Architecture-I-UIS/project-rivera-villamizar/blob/1b90377250b4951d5dbc3e386ae80e207a531ac5/Im%C3%A1genes/Screenshot%20from%202022-03-07%2011-11-52.png"/>
 </p>
 
+Posteriormente se abre el visual basic en la carpeta que cuenta con la siguiente direccion 
+# [RVfpgaSoCPath]/RVfpgaSoC/Labs/LabResources/Lab2/examples/ 
 
 ### CONCLUSIONES :heavy_check_mark:
 * 
