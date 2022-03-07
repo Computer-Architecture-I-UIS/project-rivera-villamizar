@@ -112,6 +112,12 @@ Posteriormente se abre el visual basic code en la carpeta que cuenta con la sigu
 Luego se abre el archico PlatformIO.ini y se modifica la linea 21 colocando la siguiente redireccion:
 ##### home/user/RVfpgaSoC/Labs/LabResources/Lab2/verilatorSIM/Vrvfpgasim
 
+Las direcciones de las varibles que se van a observar en el GTKWave son las siguientes: 
+* TOP rvfpgasim swervolf swerv_wrapper_verilog_0 swerv_eh1_2 swerv ifu(clk,ifu_i0_instr[31:0],ifu_i1_instr[31:0])
+* TOP rvfpgasim swervolf swerv_wrapper_verilog_0 swerv_eh1_2 swerv dec arf gpr_banks(0) gpr(28) gprff (dout[31:0])
+y las variables a mostrar son las que se encuentran en parentesis.
+
+
 Finalmente se pueden observar los resultados en GTKWave donde las variables nos muestran los resultados esperados:
 
 <p align="center"> 
