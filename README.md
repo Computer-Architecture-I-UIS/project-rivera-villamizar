@@ -75,8 +75,7 @@ Ya con los resultados anteriores, se va a generar el bitstream, para ellos incia
 ### :large_orange_diamond: LABORATORIO 2 - CORRIENDO UN PROGRAMA DE PRUEBA EN RVfpga-Soc
 Para inciar el desarrollo del segundo laboratorio se realizo la respectiva lectura de la guia correspondiente al laboratorio 2 de manera de entender los coceptos y el paso a paso para realizar este laboratorio.
 
-* Se debe obtener el archivo verilog BD.v del laboratorio anterior y llevarlo a la ubicación siguiente:
-##### <p align= "center"> [RVfpgaSoCPath]/RVfpgaSoC/Labs/LabResources/Lab2/src/SweRVolfSoC/.</p>
+* Se debe obtener el archivo verilog BD.v del laboratorio anterior y llevarlo a la ubicación  # [RVfpgaSoCPath]/RVfpgaSoC/Labs/LabResources/Lab2/src/SweRVolfSoC/.
 
 Ya en esta ubicación se debe corroborrar que los modulos dentro del archivo verilog, terminen en 0_0, como se observa en las siguientes figuras:
 
@@ -109,46 +108,10 @@ Con esto se obtiene el resultado en la terminal que se observa en la figura y ya
 </p>
 
 Posteriormente se abre el visual basic code en la carpeta que cuenta con la siguiente direccion:
-##### <p align= "center"> [RVfpgaSoCPath]/RVfpgaSoC/Labs/LabResources/Lab2/examples/.</p>
-
+##### [RVfpgaSoCPath]/RVfpgaSoC/Labs/LabResources/Lab2/examples/ 
 Luego se abre el archico PlatformIO.ini y se modifica la linea 21 colocando la siguiente redireccion:
-##### <p align= "center"> home/user/RVfpgaSoC/Labs/LabResources/Lab2/verilatorSIM/Vrvfpgasim.</p>
+##### home/user/RVfpgaSoC/Labs/LabResources/Lab2/verilatorSIM/Vrvfpgasim
 
-<p align="center"> 
- <img src="https://github.com/Computer-Architecture-I-UIS/project-rivera-villamizar/blob/33cf76c7bf143a5d02991884acae2fee7b115d26/Im%C3%A1genes/Screenshot%20from%202022-03-07%2015-46-54.png"/>
-</p>
-
-Ahora se procede a generar la traza mediante la opción que se puede observar en la siguiente figura:
-<p align="center"> 
- <img src="https://github.com/Computer-Architecture-I-UIS/project-rivera-villamizar/blob/663ca311afc08816fec828e9540afcf0510e5643/Im%C3%A1genes/p1.png"/>
-</p>
-
-Para comprobar que la traza fue realizada correctamente se debe obtener el mensaje de la siguiente figura:
-<p align="center"> 
- <img src="https://github.com/Computer-Architecture-I-UIS/project-rivera-villamizar/blob/c4fcc95b23ce9c2ae524cdfa038bc7c76c4d8aa8/Im%C3%A1genes/Screenshot%20from%202022-03-07%2012-23-53.png"/>
-</p>
-En la ubicación siguiente:
-
-##### <p align= "center"> [RVfpgaSoCPath]/RVfpgaSoC/Labs/LabResources/Lab2/examples/AL_Operations/.pio/build/swervolf_nexys/trace.vcd.</p>
-
- Debe estar el archivo trace.bcd, el cual es la traza y se va a abrir mediante GTKWave usando el siguiente comando:
- 
- ##### <p align= "center"> gtkwave [RVfpgaSoCPath]/RVfpgaSoC/Labs/LabResources/Lab2/examples/AL_Operations/.pio/build/swervolf_nexys/trace.vcd.</p>
- 
- Con el GTKWave abierto se deben buscar las siguientes rutas: 
- 
- * TOP rvfpgasim swervolf swerv_wrapper_verilog_0 swerv_eh1_2 swerv ifu(clk,ifu_i0_instr[31:0],ifu_i1_instr[31:0])
- * TOP rvfpgasim swervolf swerv_wrapper_verilog_0 swerv_eh1_2 swerv dec arf gpr_banks(0) gpr(28) gprff (dout[31:0])
- 
- en las rutas anteriores lo que se encuentra en parentesis son las variables a mostar.
- 
- Finalmente en la imagen se pueden observar los resultados en GTKWave dados por las instrucciones:
- <p align="center"> 
- <img src="https://github.com/Computer-Architecture-I-UIS/project-rivera-villamizar/blob/ae6527cdcd20c718a311eb6335800785c5f10202/Im%C3%A1genes/12.png"/>
-</p>
- 
- 
- 
 
 ### CONCLUSIONES :heavy_check_mark:
 * 
