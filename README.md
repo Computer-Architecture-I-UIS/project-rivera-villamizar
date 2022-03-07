@@ -34,14 +34,14 @@ En este paso se deben incluir los directorios y los archivos y así dejar creado
  <img src="https://github.com/Vlasevi/riscvlabs/blob/10ceab68894be5e6ab13573844f50aaf18fbfe8e/Im%C3%A1genes/Screenshot%20from%202022-03-06%2018-32-28.png" alt="modulo" width="400"/>
 </p>
 
-Se deben definir de esta manera, es decir, globales los siguientes archivos:
+* Se deben definir de esta manera, es decir, globales los siguientes archivos:
 
  * common_defines.vh
  * assign.svh
  * registers.svh
  * typedef.svh
  
-Mediante la herramiento de Diseño de Bloques llamado BD, se crea un espacio de trabajo en blanco de diseño de bloques donde se añadiran b
+* Mediante la herramiento de Diseño de Bloques llamado BD, se crea un espacio de trabajo en blanco de diseño de bloques donde se añadiran b
 <p align="center"> 
  <img src="https://github.com/Vlasevi/riscvlabs/blob/18b41a04b81fd2621903e8d3899d51664c39f2ea/Im%C3%A1genes/Screenshot%20from%202022-03-06%2018-36-53.png"/>
 </p>
@@ -59,7 +59,7 @@ Esto se debe realizar para los siguientes bloques:
  <img src="https://github.com/Vlasevi/riscvlabs/blob/ff9088e116703afc03ac4f4b44b5fb3902b39b47/Im%C3%A1genes/Screenshot%20from%202022-03-06%2020-32-55.png"/>
 </p>
 
-Ya finalizado este paso, a partir del archibo BD.bd, se crea el archivo verilog el cual contiene las conexiones de todos los bloques.
+* Ya finalizado este paso, a partir del archibo BD.bd, se crea el archivo verilog el cual contiene las conexiones de todos los bloques.
 
 Ya con los resultados anteriores, se va a generar el bitstream, para ellos incialmente se tienen que realizar las siguientes modificaciones sobres las configuraciones en vivado, como se puede observar en la figura.
 
@@ -67,13 +67,13 @@ Ya con los resultados anteriores, se va a generar el bitstream, para ellos incia
  <img src="https://github.com/Vlasevi/riscvlabs/blob/c7ee3ebc16cc1986ad42da0d897b7c13d6281938/Im%C3%A1genes/Screenshot%20from%202022-03-06%2021-26-42.png"/>
 </p>
 
-Finalmente, después de haber realizado el bitstream, se puede observar que este y la sintezis se realizaron de manera correcta, como lo muestra la figura.
+* Finalmente, después de haber realizado el bitstream, se puede observar que este y la sintezis se realizaron de manera correcta, como lo muestra la figura.
 <p align="center"> 
  <img src="https://github.com/Vlasevi/riscvlabs/blob/c7ee3ebc16cc1986ad42da0d897b7c13d6281938/Im%C3%A1genes/Screenshot%20from%202022-03-06%2022-44-06.png"/>
 </p>
 
 ### :large_orange_diamond: LABORATORIO 2 - CORRIENDO UN PROGRAMA DE PRUEBA EN RVfpga-Soc
-Para inciar el desarrollo del segundo laboratorio se realizo la respectiva lectura de la guia correspondiente al laboratorio 2 de manera que se conocieran y entendieran los requerimientos necesarios para la implementación.
+Para inciar el desarrollo del segundo laboratorio se realizo la respectiva lectura de la guia correspondiente al laboratorio 2 de manera de entender los coceptos y el paso a paso para realizar este laboratorio.
 
 Primero 
 
