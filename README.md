@@ -109,9 +109,9 @@ Con esto se obtiene el resultado en la terminal que se observa en la figura y ya
 </p>
 
 Posteriormente se abre el visual basic code en la carpeta que cuenta con la siguiente direccion:
-##### <p align= [RVfpgaSoCPath]/RVfpgaSoC/Labs/LabResources/Lab2/examples/.</p>
+##### <p align= "center"> [RVfpgaSoCPath]/RVfpgaSoC/Labs/LabResources/Lab2/examples/.</p>
 Luego se abre el archico PlatformIO.ini y se modifica la linea 21 colocando la siguiente redireccion:
-##### <p align= home/user/RVfpgaSoC/Labs/LabResources/Lab2/verilatorSIM/Vrvfpgasim.</p>
+##### <p align= "center"> home/user/RVfpgaSoC/Labs/LabResources/Lab2/verilatorSIM/Vrvfpgasim.</p>
 <p align="center"> 
  <img src="https://github.com/Computer-Architecture-I-UIS/project-rivera-villamizar/blob/33cf76c7bf143a5d02991884acae2fee7b115d26/Im%C3%A1genes/Screenshot%20from%202022-03-07%2015-46-54.png"/>
 </p>
