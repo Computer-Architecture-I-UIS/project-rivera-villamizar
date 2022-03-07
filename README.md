@@ -123,6 +123,11 @@ Ahora se procede a generar la traza mediante la opción que se puede observar en
  <img src="https://github.com/Computer-Architecture-I-UIS/project-rivera-villamizar/blob/663ca311afc08816fec828e9540afcf0510e5643/Im%C3%A1genes/p1.png"/>
 </p>
 
+Para comprobar que la traza fue realizada correctamente se debe obtener el mensaje de la siguiente figura:
+<p align="center"> 
+ <img src="https://github.com/Computer-Architecture-I-UIS/project-rivera-villamizar/blob/c4fcc95b23ce9c2ae524cdfa038bc7c76c4d8aa8/Im%C3%A1genes/Screenshot%20from%202022-03-07%2012-23-53.png"/>
+</p>
+
 ### CONCLUSIONES :heavy_check_mark:
 * 
 * 
