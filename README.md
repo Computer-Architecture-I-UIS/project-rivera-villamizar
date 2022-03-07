@@ -16,7 +16,7 @@ El software necesario para el desarrollo de los laboratorios es el siguiente:
   
 
 ### :large_orange_diamond: LABORATORIO 1 - INTRODUCCIÓN A RVfpga-Soc
-* :black_nib: Para inciar el desarrollo de este laboratorio iniciamos con la lectura incial en la guia de forma que se fuera entendiendo como funciona RVfpga-SoC, además de ir conociendo sus caracteristicas principales, posteriormente se fueron conociendo los requerimientos necesarios para el correcto desarrollo del laboratorio.
+* Para inciar el desarrollo de este laboratorio iniciamos con la lectura incial en la guia de forma que se fuera entendiendo como funciona RVfpga-SoC, además de ir conociendo sus caracteristicas principales, posteriormente se fueron conociendo los requerimientos necesarios para el correcto desarrollo del laboratorio.
  
 Primero se iniciara con el desarrollo de la guia por lo tanto se creara un proyecto en vivado: 
 
