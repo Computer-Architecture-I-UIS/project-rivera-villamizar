@@ -73,9 +73,9 @@ Con los resultados anteriores, se va a generar el bitstream, para ellos incialme
 </p>
 
 ### :large_orange_diamond: LABORATORIO 2 - CORRIENDO UN PROGRAMA DE PRUEBA EN RVfpga-Soc
-Para inciar el desarrollo del segundo laboratorio se realizo la respectiva lectura de la guia correspondiente al laboratorio 2 de manera de entender los coceptos y el paso a paso para realizar este laboratorio.
+Para inciar el desarrollo del segundo laboratorio se realizo la respectiva lectura de la guia correspondiente al laboratorio 2 de manera de entender los conceptos y el paso a paso para realizar este laboratorio.
 
-* Se debe obtener el archivo verilog BD.v del laboratorio anterior y llevarlo a la ubicación  # [RVfpgaSoCPath]/RVfpgaSoC/Labs/LabResources/Lab2/src/SweRVolfSoC/.
+* Se debe obtener el archivo verilog BD.v del laboratorio anterior y llevarlo a la ubicación  ####[RVfpgaSoCPath]/RVfpgaSoC/Labs/LabResources/Lab2/src/SweRVolfSoC/.
 
  En esta ubicación se debe corroborrar que los modulos dentro del archivo verilog, terminen en 0_0, como se observa en las siguientes figuras:
 
