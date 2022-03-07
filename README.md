@@ -133,7 +133,7 @@ En la ubicación siguiente:
 
  Debe estar el archivo trace.bcd, el cual es la traza y se va a abrir mediante GTKWave usando el siguiente comando:
  
- ##### <p align= "center"> GTKWave [RVfpgaSoCPath]/RVfpgaSoC/Labs/LabResources/Lab2/examples/AL_Operations/.pio/build/swervolf_nexys/trace.vcd.</p>
+ ##### <p align= "center"> gtkwave [RVfpgaSoCPath]/RVfpgaSoC/Labs/LabResources/Lab2/examples/AL_Operations/.pio/build/swervolf_nexys/trace.vcd.</p>
  
 
 
