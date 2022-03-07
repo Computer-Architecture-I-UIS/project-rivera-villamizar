@@ -1,8 +1,8 @@
 //Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
 //--------------------------------------------------------------------------------
-//Tool Version: Vivado v.2019.2 (win64) Build 2708876 Wed Nov  6 21:40:23 MST 2019
-//Date        : Mon May 31 23:25:42 2021
-//Host        : LenovoHamza running 64-bit major release  (build 9200)
+//Tool Version: Vivado v.2019.2 (lin64) Build 2708876 Wed Nov  6 21:39:14 MST 2019
+//Date        : Mon Mar  7 09:39:46 2022
+//Host        : vladimir-VirtualBox running 64-bit Ubuntu 20.04.3 LTS
 //Command     : generate_target BD.bd
 //Design      : BD
 //Purpose     : IP block netlist
