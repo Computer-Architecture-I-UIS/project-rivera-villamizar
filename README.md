@@ -1,6 +1,6 @@
  # <p align= "center"> :books: RVfpga SoC THE IMAGINATION UNIVERSITY PROGRAMME :books: </p>
  
- Para desarrollar el curso de RVfpga SoC, se desarrollan un conjuto de laboratorios para lograr un mejor entendimiento. Este informe, se realizan los laboratorios 1 y 2 correspondientes a este curso.
+ Para desarrollar el curso de RVfpga SoC, se desarrollan un conjunto de laboratorios para lograr un mejor entendimiento. En este informe se realizan los laboratorios 1 y 2 correspondientes a este curso.
 
 Para la realización de estos incialmente nos registramos en la pagina web de imagination university program y solicitamos el envio del mataerial correspondiente, posteriormente se incio la lectura de la guia para iniciar la instalación y desarrollo de los laboratorios.
 
@@ -24,7 +24,7 @@ El software necesario para el desarrollo de los laboratorios es el siguiente:
  <img src="https://github.com/Vlasevi/riscvlabs/blob/073427536581c14a7dcc519191a407ddf5a3ae89/Im%C3%A1genes/Screenshot%20from%202022-03-06%2015-27-54.png" alt="modulo" width="500"/>
 </p>
 
-En este paso se deben incluir los directorios y los archivos y así dejar creado el proyecto.
+Ahora se deben incluir los directorios y los archivos y así dejar creado el proyecto.
 
 * Luego se definen algunos archivos de manera global, como se puede observar en la figura. También se debe asignar el archivo rvfpga.sv como "top".
 <p align="center"> 
@@ -41,7 +41,7 @@ En este paso se deben incluir los directorios y los archivos y así dejar creado
  * registers.svh
  * typedef.svh
  
-* Mediante la herramiento de Diseño de Bloques llamado BD, se crea un espacio de trabajo en blanco de diseño de bloques donde se añadiran b
+* Mediante la herramiento de Diseño de Bloques llamado BD, se crea un espacio de trabajo en blanco de diseño de bloques como se puede observar en la imagen:
 <p align="center"> 
  <img src="https://github.com/Vlasevi/riscvlabs/blob/18b41a04b81fd2621903e8d3899d51664c39f2ea/Im%C3%A1genes/Screenshot%20from%202022-03-06%2018-36-53.png"/>
 </p>
@@ -53,7 +53,7 @@ Esto se debe realizar para los siguientes bloques:
  * syscon_wrapper
  * bidirec (En 32 ocaciones) 
 
-* Se procede a realizar las respectivas conexiones tanto internas (corresponde a conexiones entre los bloques), como externas(señales que provienen de manera externa). Luego de realizar cada una de las conexiones requeridas se plenatea un diseño de esquemático como el que se puede observar en la siguiente imagen: 
+* Se procede a realizar las respectivas conexiones tanto internas (corresponde a conexiones entre los bloques), como externas(señales que provienen de manera externa). Luego de realizar cada una de las conexiones requeridas se plantea un diseño de esquemático como el que se puede observar en la siguiente imagen: 
 
 <p align="center"> 
  <img src="https://github.com/Vlasevi/riscvlabs/blob/ff9088e116703afc03ac4f4b44b5fb3902b39b47/Im%C3%A1genes/Screenshot%20from%202022-03-06%2020-32-55.png"/>
