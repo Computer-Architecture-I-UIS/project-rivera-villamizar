@@ -46,6 +46,7 @@ Mediante la herramiento de Diseño de Bloques llamado BD, se crea un espacio de 
  <img src="https://github.com/Vlasevi/riscvlabs/blob/18b41a04b81fd2621903e8d3899d51664c39f2ea/Im%C3%A1genes/Screenshot%20from%202022-03-06%2018-36-53.png"/>
 </p>
 Esto se debe realizar para los siguientes bloques:
+
  * swerv_wrapper_verilog
  * intcon_wrapper_bd
  * bootrom_wrapper
