@@ -127,10 +127,13 @@ Para comprobar que la traza fue realizada correctamente se debe obtener el mensa
 <p align="center"> 
  <img src="https://github.com/Computer-Architecture-I-UIS/project-rivera-villamizar/blob/c4fcc95b23ce9c2ae524cdfa038bc7c76c4d8aa8/Im%C3%A1genes/Screenshot%20from%202022-03-07%2012-23-53.png"/>
 </p>
-En la ubicación siguiente: 
-#####<p align= "center"> [RVfpgaSoCPath]/RVfpgaSoC/Labs/LabResources/Lab2/examples/AL_Operations/.pio/build/swervolf_nexys/trace.vcd.</p>
+En la ubicación siguiente:
+
+##### <p align= "center"> [RVfpgaSoCPath]/RVfpgaSoC/Labs/LabResources/Lab2/examples/AL_Operations/.pio/build/swervolf_nexys/trace.vcd.</p>
 
  Debe estar el archivo trace.bcd, el cual es la traza y se va a abrir mediante GTKWave usando el siguiente comando:
+ 
+ ##### <p align= "center"> GTKWave [RVfpgaSoCPath]/RVfpgaSoC/Labs/LabResources/Lab2/examples/AL_Operations/.pio/build/swervolf_nexys/trace.vcd.</p>
  
 
 
