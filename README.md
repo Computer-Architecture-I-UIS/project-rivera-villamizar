@@ -59,8 +59,7 @@ Se procede a realizar las respectivas conexiones tanto internas (corresponde a c
  <img src="https://github.com/Vlasevi/riscvlabs/blob/ff9088e116703afc03ac4f4b44b5fb3902b39b47/Im%C3%A1genes/Screenshot%20from%202022-03-06%2020-32-55.png"/>
 </p>
 
-:heavy_check_mark: Finalizado este paso, a partir del archibo BD.bd, se crea el archivo verilog el cual contiene las conexiones de todos los bloques.
-
+Finalizado este paso, a partir del archibo BD.bd, se crea el archivo verilog el cual contiene las conexiones de todos los bloques.
 
 Con los resultados anteriores, se va a generar el bitstream, para ellos incialmente se tienen que realizar las siguientes modificaciones sobres las configuraciones en vivado, como se puede observar en la figura.
 
@@ -68,7 +67,7 @@ Con los resultados anteriores, se va a generar el bitstream, para ellos incialme
  <img src="https://github.com/Vlasevi/riscvlabs/blob/c7ee3ebc16cc1986ad42da0d897b7c13d6281938/Im%C3%A1genes/Screenshot%20from%202022-03-06%2021-26-42.png"/>
 </p>
 
-* Finalmente, después de haber realizado el bitstream, se puede observar que este y la sintezis se realizaron de manera correcta, como lo muestra la figura.
+ :heavy_check_mark: Finalmente, después de haber realizado el bitstream, se puede observar que este y la sintesis se realizaron de manera correcta, como lo muestra la figura.
 <p align="center"> 
  <img src="https://github.com/Vlasevi/riscvlabs/blob/c7ee3ebc16cc1986ad42da0d897b7c13d6281938/Im%C3%A1genes/Screenshot%20from%202022-03-06%2022-44-06.png"/>
 </p>
@@ -78,7 +77,7 @@ Para inciar el desarrollo del segundo laboratorio se realizo la respectiva lectu
 
 * Se debe obtener el archivo verilog BD.v del laboratorio anterior y llevarlo a la ubicación  # [RVfpgaSoCPath]/RVfpgaSoC/Labs/LabResources/Lab2/src/SweRVolfSoC/.
 
-Ya en esta ubicación se debe corroborrar que los modulos dentro del archivo verilog, terminen en 0_0, como se observa en las siguientes figuras:
+ En esta ubicación se debe corroborrar que los modulos dentro del archivo verilog, terminen en 0_0, como se observa en las siguientes figuras:
 
 <p align="center"> 
  <img src="https://github.com/Computer-Architecture-I-UIS/project-rivera-villamizar/blob/5fb83562aa8dccc5db3205ccfa065064efe62e14/Im%C3%A1genes/Screenshot%20from%202022-03-07%2010-40-13.png"/>
