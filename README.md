@@ -98,7 +98,7 @@ Para inciar el desarrollo del segundo laboratorio se realizo la respectiva lectu
 
 Ya con esta comprobación realizada, se realiza la creación del archivo Vrvfpgasim, mediante los siguientes códigos:
 
-* cdcd #### [RVfpgaSoCPath]/RVfpgaSoC/Labs/LabResources/Lab2/verilatorSIM
+* cdcd [RVfpgaSoCPath]/RVfpgaSoC/Labs/LabResources/Lab2/verilatorSIM
 * make clean
 * make
 
@@ -109,8 +109,7 @@ Con esto se obtiene el resultado en la terminal que se observa en la figura y ya
 </p>
 
 Posteriormente se abre el visual basic code en la carpeta que cuenta con la siguiente direccion:
-##### 
-<p align="center"> [RVfpgaSoCPath]/RVfpgaSoC/Labs/LabResources/Lab2/examples/ 
+##### [RVfpgaSoCPath]/RVfpgaSoC/Labs/LabResources/Lab2/examples/ 
 Luego se abre el archico PlatformIO.ini y se modifica la linea 21 colocando la siguiente redireccion:
 ##### home/user/RVfpgaSoC/Labs/LabResources/Lab2/verilatorSIM/Vrvfpgasim
 
