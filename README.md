@@ -120,7 +120,7 @@ Las direcciones de las varibles que se van a observar en el GTKWave son las sigu
 Las variables a mostrar son las que se encuentran en parentesis.
 
 
-Finalmente se pueden observar los resultados en GTKWave donde las variables nos muestran los resultados esperados:
+:heavy_check_mark: Finalmente se pueden observar los resultados en GTKWave donde las variables nos muestran los resultados esperados:
 
 <p align="center"> 
  <img src="https://github.com/Computer-Architecture-I-UIS/project-rivera-villamizar/blob/b3c38212b6a7bdbb30042a85f54c13a50afde4cc/Im%C3%A1genes/12.png"/>
