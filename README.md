@@ -110,12 +110,18 @@ Con esto se obtiene el resultado en la terminal que se observa en la figura y ya
 
 Posteriormente se abre el visual basic code en la carpeta que cuenta con la siguiente direccion:
 ##### <p align= "center"> [RVfpgaSoCPath]/RVfpgaSoC/Labs/LabResources/Lab2/examples/.</p>
+
 Luego se abre el archico PlatformIO.ini y se modifica la linea 21 colocando la siguiente redireccion:
 ##### <p align= "center"> home/user/RVfpgaSoC/Labs/LabResources/Lab2/verilatorSIM/Vrvfpgasim.</p>
+
 <p align="center"> 
  <img src="https://github.com/Computer-Architecture-I-UIS/project-rivera-villamizar/blob/33cf76c7bf143a5d02991884acae2fee7b115d26/Im%C3%A1genes/Screenshot%20from%202022-03-07%2015-46-54.png"/>
 </p>
-Ahora se procede a generar la 
+
+Ahora se procede a generar la traza mediante la opción que se puede observar en la siguiente figura:
+<p align="center"> 
+ <img src="https://github.com/Computer-Architecture-I-UIS/project-rivera-villamizar/blob/663ca311afc08816fec828e9540afcf0510e5643/Im%C3%A1genes/p1.png"/>
+</p>
 
 ### CONCLUSIONES :heavy_check_mark:
 * 
