@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2019.2 (64-bit)
+# SW Build 2708876 on Wed Nov  6 21:39:14 MST 2019
+# IP Build 2700528 on Thu Nov  7 00:09:20 MST 2019
+# Start of session at: Mon Mar  7 09:44:24 2022
+# Process ID: 16312
+# Current directory: /home/vladimir/RVfpgaSoC/Labs/LabProjects/Lab1/Lab1.runs/BD_bidirec_0_20_synth_1
+# Command line: vivado -log BD_bidirec_0_20.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source BD_bidirec_0_20.tcl
+# Log file: /home/vladimir/RVfpgaSoC/Labs/LabProjects/Lab1/Lab1.runs/BD_bidirec_0_20_synth_1/BD_bidirec_0_20.vds
+# Journal file: /home/vladimir/RVfpgaSoC/Labs/LabProjects/Lab1/Lab1.runs/BD_bidirec_0_20_synth_1/vivado.jou
+#-----------------------------------------------------------
+source BD_bidirec_0_20.tcl -notrace
