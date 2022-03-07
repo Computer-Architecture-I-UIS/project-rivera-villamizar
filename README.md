@@ -53,7 +53,7 @@ Esto se debe realizar para los siguientes bloques:
  * syscon_wrapper
  * bidirec (En 32 ocaciones) 
 
-Luego de realizar cada una de las conexiones requeridas obtenemos un diseño como el que se puede observar en la siguiente imagen: 
+* Se procede a realizar las respectivas conexiones tanto internas (corresponde a conexiones entre los bloques), como externas(señales que provienen de manera externa). Luego de realizar cada una de las conexiones requeridas se plenatea un diseño de esquemático como el que se puede observar en la siguiente imagen: 
 
 <p align="center"> 
  <img src="https://github.com/Vlasevi/riscvlabs/blob/ff9088e116703afc03ac4f4b44b5fb3902b39b47/Im%C3%A1genes/Screenshot%20from%202022-03-06%2020-32-55.png"/>
