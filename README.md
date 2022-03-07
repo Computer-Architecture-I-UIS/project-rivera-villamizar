@@ -67,8 +67,7 @@ Ya con los resultados anteriores, se va a generar el bitstream, para ellos incia
  <img src="https://github.com/Vlasevi/riscvlabs/blob/c7ee3ebc16cc1986ad42da0d897b7c13d6281938/Im%C3%A1genes/Screenshot%20from%202022-03-06%2021-26-42.png"/>
 </p>
 
-Finalmente se puede observar que se obtuvo el bit stream y la sintesis correctamente: 
-
+Finalmente, después de haber realizado el bitstream, se puede observar que este y la sintezis se realizaron de manera correcta, como lo muestra la figura.
 <p align="center"> 
  <img src="https://github.com/Vlasevi/riscvlabs/blob/c7ee3ebc16cc1986ad42da0d897b7c13d6281938/Im%C3%A1genes/Screenshot%20from%202022-03-06%2022-44-06.png"/>
 </p>
