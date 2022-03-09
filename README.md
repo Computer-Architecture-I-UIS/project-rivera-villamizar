@@ -107,7 +107,7 @@ Ya con esta comprobación realizada, se realiza la creación del archivo Vrvfpga
 Con esto se obtiene el resultado en la terminal que se observa en la figura y ya el archivo está creado.
 
 <p align="center"> 
- <img src="https://github.com/Computer-Architecture-I-UIS/project-rivera-villamizar/blob/1b90377250b4951d5dbc3e386ae80e207a531ac5/Im%C3%A1genes/Screenshot%20from%202022-03-07%2011-11-52.png"/>
+ <img src="https://github.com/Computer-Architecture-I-UIS/project-rivera-villamizar/blob/7a2835c0f22a9289a3bea506f153fbf9bbdb5d0d/Im%C3%A1genes/o.png"/>
 </p>
 
 Posteriormente se abre el visual basic code en la carpeta que cuenta con la siguiente direccion:
