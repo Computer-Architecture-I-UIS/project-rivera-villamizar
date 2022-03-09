@@ -131,10 +131,11 @@ Las variables a mostrar son las que se encuentran en parentesis.
 
 ### CONCLUSIONES :heavy_check_mark:
 
-* Se pudo ejecutar el programa de prueba AL_Operations en el procesador y observar su comportamiento mediante GtkWave.
-* Mediante el uso de vivado se pudo sintetizar el diseño para generar el archivo verilog del procesador para realizar la simulación.
-* Se debió abrir el Visual Code como super usario para poder realizar la traza.
+* Se entendió el procedimiento desde la asignación de los archivos globales, como archivos principales del proyecto, hasta la generación de la traza.
+* Se logró obtener la salida de la instrucción esperada en el procesador en el tiempo entre los 10 [fs] y 100 [fs].
+* La señal de salida observada se puede observar en los tiempos de 10 [fs] y 100 [fs] y 10 [ns] y 100 [ns] (tiempo sugerido en la guia).
 * El archivo trace.vcd debió moverse a una ubicación sin restricciones para poder ser corrido en Gtkwave.
+* El software Visal Code debe ser abierto como superusuario para poder correr el IDE PlatformIO.
 
 ### REFERENCIAS :paperclip:
 * The imagination university program (2021), RVfpga-SoC INSTALLATION GUIDE
