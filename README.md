@@ -98,9 +98,9 @@ Para inciar el desarrollo del segundo laboratorio se realizo la respectiva lectu
 
 Ya con esta comprobación realizada, se realiza la creación del archivo Vrvfpgasim, mediante los siguientes códigos:
 
-```cd [RVfpgaSoCPath]/RVfpgaSoC/Labs/LabResources/Lab2/verilatorSIM```
-```make clean```
-```make```
+```cd [RVfpgaSoCPath]/RVfpgaSoC/Labs/LabResources/Lab2/verilatorSIM
+make clean
+make```
 
 Con esto se obtiene el resultado en la terminal que se observa en la figura y ya el archivo está creado.
 
