@@ -1,7 +1,7 @@
  # <p align= "center"> :books: RVfpga SoC THE IMAGINATION UNIVERSITY PROGRAMME :books: </p>
  
- Para desarrollar el curso de RVfpga SoC, se desarrollan un conjunto de laboratorios para lograr un mejor entendimiento. En este informe se realizan los laboratorios 1 y 2 correspondientes a este curso.
-
+ Este es un curso de aprendizaje el cual cuenta con un conjunto de herramientas, set de instrucciones y laboratorios con el fin de aprender a como implementar un SoC de RISC-V en una FPGA, programar un SoC de RISC-V y finalmente como mejorar o añadir más funciones al SoC. Para adquirir este conocimiento, para esta asignatura se realizarán los dos primeros laboratorios del curso. El laboratorio 1 consiste en como a partir de los bloques ya existentes, implementar el SoC de RISC V, eximiendo algunos módulos de periféricos. El segundo laboratorio consiste en como convertir este SoC generado mediante el lenguaje verilog en un sistema funcional implementando un programa de prueba desde Visual Code para observar la salida desde GTKWave. 
+ 
 Para la realización de estos incialmente nos registramos en la pagina web de imagination university program y solicitamos el envio del mataerial correspondiente, posteriormente se incio la lectura de la guia para iniciar la instalación y desarrollo de los laboratorios.
 
 El software necesario para el desarrollo de los laboratorios es el siguiente:
