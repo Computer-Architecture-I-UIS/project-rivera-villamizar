@@ -125,7 +125,7 @@ Las variables a mostrar son las que se encuentran en parentesis.
 :heavy_check_mark: Finalmente se pueden observar los resultados en GTKWave donde las variables nos muestran los resultados esperados:
 
 <p align="center"> 
- <img src="https://github.com/Computer-Architecture-I-UIS/project-rivera-villamizar/blob/b3c38212b6a7bdbb30042a85f54c13a50afde4cc/Im%C3%A1genes/12.png"/>
+ <img src="https://github.com/Computer-Architecture-I-UIS/project-rivera-villamizar/blob/7a2835c0f22a9289a3bea506f153fbf9bbdb5d0d/Im%C3%A1genes/o.png"/>
 </p>
 
 
